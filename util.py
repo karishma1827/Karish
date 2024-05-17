@@ -8,5 +8,5 @@ def read_json():
 
 def write_json(data):
     with open (FILE_NAME,"w") as f:
-        dump(data,f,indent=3)
+        dump(data,f,indent=4)
               
