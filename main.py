@@ -20,7 +20,7 @@ while True:
             print("You have chosen delete record")
             del_stud()
     else:
-        print("Invalid option")
+        print("Invalid")
     cont=input("Do you want to continue?[y/n]:") 
     if cont=="y":
         continue
