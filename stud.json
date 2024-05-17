@@ -1,0 +1,25 @@
+{
+   "students": [
+      {
+         "sno": 1,
+         "name": "Karishma",
+         "address": "Thoothukudi",
+         "course": "Python",
+         "duration": "3 months"
+      },
+      {
+         "sno": 2,
+         "name": "Apishaa",
+         "address": "Thoothukudi",
+         "course": "Python",
+         "duration": "3 months"
+      },
+      {
+         "sno": 3,
+         "name": "Anupa",
+         "address": "Kerela",
+         "course": "Cooking",
+         "duration": "1 month"
+      }
+   ]
+}
